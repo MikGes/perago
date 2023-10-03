@@ -1,0 +1,6 @@
+.List:hover{
+transform: scale(1.3);
+}
+.List{
+    transition: transform 0.5s;
+}
